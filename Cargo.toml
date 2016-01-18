@@ -4,5 +4,5 @@ version = "0.1.0"
 authors = ["Hendrik Kunert <qkunerd@gmail.com>"]
 
 [dependencies]
-rand = "0.3"
-num = "0.1"
+rand = "0.3.11"
+ramp = "0.2.2"
